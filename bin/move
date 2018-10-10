@@ -14,4 +14,5 @@ input_to_index(user_input)
 
 move(board,index,"x")
 
+display_board(board)
 # Code your CLI Here
