@@ -18,7 +18,7 @@ end
 
 
 def move (board,index, default = "X")
-  board[index] = value
+  board[index] 
 end
 
 
